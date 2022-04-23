@@ -1,4 +1,6 @@
-ちひろです!!｜異業種からの転生コーダー1年目(2022.4.1 ~)｜プログラミング初心者｜開発エンジニア目指して学習中｜  
-平日 → 制作会社｜週末 → 副業｜勉強するぞ → React, Laravel, sql
+業務はhtml/CSS/JavaScript/WordPress ゴリゴリ  
+プログラミング学習中  
+勉強する → React, Laravel, sql  
+好き → 散歩🐾お肉🍖お寿司🍣
 
 TwitterAPI
