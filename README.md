@@ -1,4 +1,4 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=chihiro-1000c)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=chihiro-1000c&count_private=true)
 
 
 業務はhtml/CSS/JavaScript/WordPress ゴリゴリ  
